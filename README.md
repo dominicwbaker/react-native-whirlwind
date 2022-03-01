@@ -75,14 +75,6 @@ export default function App() {
 }
 ```
 
-## Documentation
-
-For full documentation, visit [https://arabold.github.io/react-native-whirlwind/](https://arabold.github.io/react-native-whirlwind/).
-
-## Live Example
-
-https://snack.expo.dev/@arabold/react-native-whirlwind
-
 ## Platform Support
 
 [![supports Expo](https://img.shields.io/badge/Expo-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff)](https://expo.dev/)
